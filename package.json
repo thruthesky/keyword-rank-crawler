@@ -1,0 +1,29 @@
+{
+  "name": "keyword-rank-crawler",
+  "version": "1.0.0",
+  "description": "keyword-rank-crawler",
+  "main": "naver.kin.desktop.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thruthesky/keyword-rank-crawler.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thruthesky/keyword-rank-crawler/issues"
+  },
+  "homepage": "https://github.com/thruthesky/keyword-rank-crawler#readme",
+  "dependencies": {
+    "@types/puppeteer": "^0.10.2",
+    "cheerio": "^1.0.0-rc.2",
+    "puppeteer": "^0.11.0",
+    "yargs": "^9.0.1"
+  },
+  "devDependencies": {
+    "typescript": "^2.5.3"
+  }
+}

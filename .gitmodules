@@ -1,0 +1,3 @@
+[submodule "src/puppeteer-extension"]
+	path = src/puppeteer-extension
+	url = https://github.com/thruthesky/puppeteer-extension
